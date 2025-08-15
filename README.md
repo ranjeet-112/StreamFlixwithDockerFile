@@ -1,0 +1,2 @@
+# StreamFlixwithDockerFile
+Build all artifacts 
